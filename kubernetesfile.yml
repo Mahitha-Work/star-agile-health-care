@@ -29,7 +29,7 @@ metadata:
   name: health-care-service
 spec:
   selector:
-    app: finance-app
+    app: health-care
   ports:
     - port: 8082
       targetPort: 8082
